@@ -19,7 +19,7 @@ We will start with an empty HTML file in Visual Studio Code (VSS) and build an a
 * HTML ```<!DOCTYPE html>``` Declaration
 * Top level elements: **html**, **head**, **title**, **body**
 * Basic elements: **h1-h6**, **p**, **br**
-* Images: **img** Use the **alt** property on **img** elements to provide a description of the image and leave it empty if the image is not important. I.e., ```<img src="johnson.jpg" alt="Portrait of Katherine Johnson">
+* Images: **img** Use the **alt** property on **img** elements to provide a description of the image and leave it empty if the image is not important.
 * Non semantic elements for positioning or styling: **div**, **span**
 
 ### Semantic elements - Screen Reader Friendly!
